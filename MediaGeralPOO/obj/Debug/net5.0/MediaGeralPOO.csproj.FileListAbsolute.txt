@@ -1,0 +1,16 @@
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\bin\Debug\net5.0\MediaGeralPOO.exe
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\bin\Debug\net5.0\MediaGeralPOO.deps.json
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\bin\Debug\net5.0\MediaGeralPOO.runtimeconfig.json
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\bin\Debug\net5.0\MediaGeralPOO.runtimeconfig.dev.json
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\bin\Debug\net5.0\MediaGeralPOO.dll
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\bin\Debug\net5.0\ref\MediaGeralPOO.dll
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\bin\Debug\net5.0\MediaGeralPOO.pdb
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\MediaGeralPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\MediaGeralPOO.AssemblyInfoInputs.cache
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\MediaGeralPOO.AssemblyInfo.cs
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\MediaGeralPOO.dll
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\ref\MediaGeralPOO.dll
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\MediaGeralPOO.pdb
+C:\Projetos\testes\MediaGeralPOO\MediaGeralPOO\obj\Debug\net5.0\MediaGeralPOO.genruntimeconfig.cache
